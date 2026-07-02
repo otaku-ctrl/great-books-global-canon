@@ -4,6 +4,8 @@
 
 *by Aditya Tyagi*
 
+Navigation: [Contents](contents.md) | [Methodology](methodology.md) | [Complete Register](register.md) | [Epoch I](canon/epoch-01.md) | [Appendix A](appendixes/appendix-a.md) | [Final Tally](final-tally.md)
+
 ---
 
 ## A. Introduction: A Case for a Global Canon
@@ -74,7 +76,7 @@ Can texts from radically different worlds be evaluated together without silently
 
 This project offers an honest, globally scoped, methodologically transparent starting point. It draws from roughly forty-five language-worlds across nine chronological epochs. It does not prescribe an order, nor does it claim infallibility. It is a tool for any reader wishing to engage seriously with the full cultural inheritance of human thought.
 
-*A plain index of all 536 entries without commentary is available in the 'TL;DR.md' file.*
+*A plain index of all 536 entries without commentary is available in the [register](register.md).*
 
 ---
 
