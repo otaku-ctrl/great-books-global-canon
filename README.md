@@ -114,6 +114,8 @@ It offers a map — the most globally comprehensive, methodologically transparen
 It does not offer a prescribed reading order, though the chronological arrangement makes one natural path available to those who want it. It does not offer a ranking. It does not offer the claim that any tradition is exhaustively represented, or that the compiler's judgement is infallible, or that this canon, as currently constituted, is the final and unimprovable word on what humanity has produced in textual form worth reading seriously. What it offers is a starting point — the most honest, most globally scoped, and most methodologically rigorous starting point the compiler has been able to assemble — for any reader who wishes to take seriously the full inheritance of what human beings have thought, felt, and written at their best.
  
 Mortimer Adler and Robert Maynard Hutchins were right that there are great books and that they are for everyone. It's just that their execution was inadequate and incomplete even; the project they began deserves to be finished properly. My attempt at which is by no means final or definitive — rather, this is the first true and real attempt at compiling a curation of great books from the whole world, no matter how flawed it may be.
+
+*Readers wanting a plain listing of all 536 canonical entries without annotations, commentary, or apparatus will find a complete index of works in the 'TL;DR.md' file.*
  
 ---
  
