@@ -115,7 +115,7 @@ It does not offer a prescribed reading order, though the chronological arrangeme
  
 Mortimer Adler and Robert Maynard Hutchins were right that there are great books and that they are for everyone. It's just that their execution was inadequate and incomplete even; the project they began deserves to be finished properly. My attempt at which is by no means final or definitive — rather, this is the first true and real attempt at compiling a curation of great books from the whole world, no matter how flawed it may be.
 
-*Readers wanting a plain listing of all 536 canonical entries without annotations, commentary, or apparatus will find a complete index of works in the 'TL;DR.md' file.*
+*Readers wanting a plain listing of all 536 canonical entries without annotations, commentary, or apparatus will find a complete index of works in the 'TL;DR' file.*
  
 ---
  
